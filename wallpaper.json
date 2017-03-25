@@ -6,18 +6,6 @@
             },
             {
                 "name": "Lollipop"
-            },
-            {
-                "name": "Marshmallow"
-            },
-            {
-                "name": "Nougat"
-            },
-            {
-                "name": "NoImagesInside"
-            },
-            {
-                "name": "AnotherCategory"
             }
         ],
     
@@ -25,7 +13,7 @@
         [
 			{
 				"author": "Taken from gadgetraid",
-				"url": "http://www.gadgetraid.com/wp-content/uploads/2016/07/android-n-nougat-wallpaper-1.png",
+				"url": "https://raw.githubusercontent.com/vizdevansh/Vibes-/master/Wallpapers/dope_wall_v72_16.png",
 				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5TkZ0amk4TGZWYkU",
 				"name": "Nougat Wallpaper 1",
                 "category": "nougat,anothercategory"
